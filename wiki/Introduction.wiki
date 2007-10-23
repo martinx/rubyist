@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= 介绍 =
+
+Rubyist (名字暂定), 
+她的最终目的是建立Ruby人才库，提供Rubyer交流的场所，项目展示，RSS聚合，活动举办等等.
+
+= 详细内容 =
+
+具体细节制定中...
